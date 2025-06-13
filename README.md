@@ -5,3 +5,9 @@ You can never find one.
 
 Use this website to find something that suits your preferences, rank movies and TV shows, post public reviews, save what you want to watch to an account that instantly syncs.
 Sounds too good to be true? The base tier is **free, forever**.
+
+---
+## Credits
+Ishaaq Suffyan: Lead Developer
+
+made with the [t3 stack](https://create.t3.gg)
